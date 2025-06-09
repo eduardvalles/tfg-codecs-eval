@@ -1,6 +1,6 @@
 # Estudi comparatiu dels estàndards emergents de vídeo EVC i VVC en Windows i Android
 
-Aquest projecte forma part del Treball de Fi de Grau en Sistemes Audiovisuals, i té com a objectiu analitzar i comparar el rendiment computacional dels estàndards de codificació de vídeo **EVC (Essential Video Coding)** i **VVC (Versatile Video Coding)** en dos entorns diferents: **Windows** i **Android**.
+Aquest projecte forma part del Treball de Fi de Grau del grau d'Enginyeria de Sistemes Audiovisuals, i té com a objectiu analitzar i comparar el rendiment computacional dels estàndards de codificació de vídeo **EVC (Essential Video Coding)** i **VVC (Versatile Video Coding)** en dos entorns diferents: **Windows** i **Android**.
 
 He decidit crear aquest repositori per oferir una eina de codi obert a qualsevol persona o investigador/a que vulgui analitzar el rendiment i cost computacional del procés de codificació de vídeo amb els estàndards **Essential Video Coding (EVC)**, **Versatile Video Coding (VVC)** i **FFmpeg amb EVC**.
 
