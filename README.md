@@ -2,7 +2,7 @@
 
 Aquest projecte forma part del Treball de Fi de Grau del grau d'Enginyeria de Sistemes Audiovisuals, i té com a objectiu analitzar i comparar el rendiment computacional dels estàndards de codificació de vídeo **EVC (Essential Video Coding)** i **VVC (Versatile Video Coding)** en dos entorns diferents: **Windows** i **Android**.
 
-He decidit crear aquest repositori per oferir una eina de codi obert a qualsevol persona o investigador/a que vulgui analitzar el rendiment i cost computacional del procés de codificació de vídeo amb els estàndards **Essential Video Coding (EVC)**, **Versatile Video Coding (VVC)** i **FFmpeg amb EVC**.
+He decidit crear aquest repositori per oferir una eina de codi obert a qualsevol persona o investigador/a que vulgui analitzar el rendiment i cost computacional del procés de codificació de vídeo amb els estàndards **Essential Video Coding (EVC)**, **Versatile Video Coding (VVC)** en diferents dispositius.
 
 ## Scripts 
 S'han inclòs els scripts desenvolupats necessaris per codificar amb els estàndards **EVC i **VVC** en l'entorn de **Windows** i en **Android**, així com l'script de conversió de vídeos al format en brut .YUV.
