@@ -16,7 +16,7 @@ fps = 25
 conn = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="159753",
+    password="XXXXXX",
     database="database_tfg"
 )
 cursor = conn.cursor()
