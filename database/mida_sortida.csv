@@ -1,0 +1,5 @@
+codificador,platform,mida_mitjana,mida_minima,mida_maxima
+EVC,windows,2.792239136166043,0.258,12.9804
+EVC,android,2.644899990558624,0.25,12.98
+VVC,windows,3.43235232035319,0.732918,8.45649
+VVC,android,3.2594000053405763,0.72,8.45

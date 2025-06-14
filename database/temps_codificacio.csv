@@ -1,0 +1,5 @@
+codificador,platform,mitjana_temps,temps_minim,temps_maxim
+EVC,windows,940.8945543077257,454.61,1937.62
+VVC,windows,671.4104461669922,325.16,1268.39
+EVC,android,1480.3860913085937,477.082,3696.55
+VVC,android,1594.146944580078,573.908,3403.11

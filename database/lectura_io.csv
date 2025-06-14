@@ -1,0 +1,5 @@
+codificador,platform,io_read_mitjana,io_read_minima,io_read_maxima
+EVC,windows,5.146767160627577,5.13072,5.17265
+EVC,android,12280.574384765625,2231.4,22376.9
+VVC,windows,5.149198532104492,5.13018,5.17752
+VVC,android,12313.377399902343,2230.05,22399.9
