@@ -13,7 +13,7 @@ En el cas de windows, només cal executar l'script per codificar EVC i VVC a tra
 ### Android
 Si es vol codificar en Android, s'han d'editar els scripts de EVC i VVC manualment per introduir la categoria a la secció _CONFIGURACIÓ_. Durant el projecte s'ha fet servir l'aplicació Termux per editar i executar el codi en Android
 
-En qualsevol dels casos, un cop executat, el codi s'encarrega de codificar tots els vídeos de la categoria (nom de la carpeta) introduida.
+Un cop executat l'script a Windows o bé a Android, el codi s'encarrega de codificar automàticament tots els vídeos de la categoria (nom de la carpeta) introduida.
 
 ## Vídeos
 L'estudi s'ha realitzat amb 90 vídeos (10 vídeos de 9 categories diferents, ex: Dibuixos Animats, Esports, Entrevistes, etc.) descarregats de youtube. En general es poden fer servir qualsevol tipus de vídeos. Els scripts originals estan pensats per transformar vídeos .mp4 a .yuv però es pot modificar alterant el codi mp4_to_yuv_converter.py. En qualsevol cas, la codificació s'haurà de realitzar sempre amb el format brut dels vídeos (.yuv).
